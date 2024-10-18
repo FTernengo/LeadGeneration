@@ -1,0 +1,17 @@
+{
+  "name": "hunter-lead-generator",
+  "version": "1.0.0",
+  "description": "A simple lead generator using Hunter API",
+  "main": "leadGenerator.js",
+  "scripts": {
+    "start": "node leadGenerator.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
